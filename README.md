@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Luz Jimena Arce Gabriel!
+# 👋 Hi, I’m Luz Jimena Arce Gabriel.
 
 I’m a Computer Systems Engineering student.  
 Passionate about programming and always looking to study and learn day by day.
@@ -10,6 +10,9 @@ Exploring new ideas and projects.
 - C
 - Python
 - Java
+  
+## 💬 My motto
+"Do not stop for anything to achieve your dream, your success." - YKD
 
 ## 📫 How to reach me
 - luzjimenarcegabriel@gmail.com
