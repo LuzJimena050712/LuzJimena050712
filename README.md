@@ -10,9 +10,9 @@ I’m always exploring new ideas, experimenting with cutting-edge technologies, 
 
 ## 📚 Currently learning:
 - C
-- Python
-- Java
+- Python.
+- Java.
+- Html and css.
 
 ## 📫 How to reach me:
 - luzjimenarcegabriel@gmail.com
-- arceluz161@gmail.com
