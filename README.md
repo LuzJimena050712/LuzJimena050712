@@ -9,7 +9,7 @@ Do not stop for anything to achieve your dream, your success. - YKD
 I’m always exploring new ideas, experimenting with cutting-edge technologies, and building projects that challenge my creativity and technical abilities.
 
 ## 📚 Currently learning:
-- C
+- C.
 - Python.
 - Java.
 
