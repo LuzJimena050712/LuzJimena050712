@@ -12,6 +12,6 @@ I’m always exploring new ideas, experimenting with cutting-edge technologies, 
 - C.
 - Python.
 - Java.
-
+  
 ## 📫 How to reach me:
 - luzjimenarcegabriel@gmail.com
