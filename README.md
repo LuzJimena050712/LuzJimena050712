@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi,My name is Luz Jimena Arce Gabriel.
+I’m 19 years old.
+I’m a Computer Systems Engineering student, deeply passionate about programming and the endless possibilities it offers to solve real-world problems. I’m constantly seeking to improve my skills, stay curious, and push the boundaries of what I can create through code.
 
-<!--
-**LuzJimena050712/LuzJimena050712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 My motto:
+Do not stop for anything to achieve your dream, your success. - YKD
 
-Here are some ideas to get you started:
+## 🚀 What I’m creating:
+I’m always exploring new ideas, experimenting with cutting-edge technologies, and building projects that challenge my creativity and technical abilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently learning:
+- C.
+- Python.
+- Java.
+
+## 📫 How to reach me:
+- luzjimenarcegabriel@gmail.com
